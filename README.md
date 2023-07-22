@@ -1,7 +1,7 @@
 <h1>Ulam's Square (Unity)</h1>
 
 <h2>Description</h2>
-Ulam's Spiral / Square / Prime Spiral, is a visualisation of the interesting behaviour of prime numbers when highlighted against non-primes in a spiraling pattern to form a square.
+Ulam's Spiral / Square / Prime Spiral, is a visualisation of the interesting behaviour of prime numbers when highlighted against non-primes in a spiraling pattern to form a square; the lines that are created correspond with quadratic polynomials.
 <br />
 
 <h2>Media</h2>
