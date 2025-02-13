@@ -9,5 +9,5 @@ Ulam's Spiral / Square / Prime Spiral, is a visualisation of the interesting beh
 <h2>Media</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/wkcBnRl.png" height="80%" width="80%" alt="Media Image"/>
+<img src="https://i.imgur.com/wkcBnRl.png" height="100%" width="100%" alt="Media Image"/>
 </p>
