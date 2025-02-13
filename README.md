@@ -3,7 +3,7 @@
 ### [Release Build](https://github.com/ItsCam32/UlamsSquare/releases/tag/v1.0.0)
 
 <h2>Description</h2>
-Ulam's Spiral / Square / Prime Spiral, is a visualisation of the interesting behaviour of prime numbers when highlighted against non-primes in a spiraling pattern to form a square; the lines that are created correspond with quadratic polynomials.
+Ulam's Spiral is a visualisation of the interesting behaviour of prime numbers when highlighted against non-primes in a spiraling pattern to form a square; the lines that are created correspond with quadratic polynomials. Simulated in Unity.
 <br />
 
 <h2>Media</h2>
